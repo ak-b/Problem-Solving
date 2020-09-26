@@ -1,3 +1,4 @@
+# The algorithm complexity will reduce to O(N) 
 def find_averages_of_subarrays(K, arr):
   result = []
   windowSum, windowStart = 0.0, 0
