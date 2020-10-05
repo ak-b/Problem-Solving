@@ -27,7 +27,7 @@ Often, the constraint is that we need to do this in-place, i.e., using the exist
 >eg: In many problems, where we are given a set of elements such that we can divide them into two parts. To solve the problem, we are interested in knowing the smallest element in one part and the biggest element in the other part. This pattern is an efficient approach to solve such problems.This pattern uses two Heaps to solve these problems; A Min Heap to find the smallest element and a Max Heap to find the biggest element.
 10. **Subsets**
 >eg: Problems involve dealing with Permutations and Combinations of a given set of elements
-11. **Modifief Binary Search**
+11. **Modified Binary Search**
 >eg: Pattern describes an efficient way to handle all problems involving Binary Search.
 12. **Bitwise XOR**
 >eg: Given an array of n-1n−1 integers in the range from 11 to nn, find the one number that is missing from the array.
