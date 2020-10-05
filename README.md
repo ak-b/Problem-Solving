@@ -17,6 +17,7 @@ This pattern describes an efficient technique to deal with overlapping intervals
 This pattern describes an interesting approach to deal with problems involving arrays containing numbers in a given range.
 >eg: You are given an unsorted array containing numbers taken from the range 1 to ‘n’. The array can have duplicates, which means that some numbers will be missing. Find all the missing numbers
 6. **In-place reversal of a Linked List**
+Often, the constraint is that we need to do this in-place, i.e., using the existing node objects and without using extra memory.In-place Reversal of a LinkedList pattern describes an efficient way to solve the above problem
 >eg: Using the existing node objects and without using extra memory
 7. **Tree Breadth First Search**
 >eg: Any problem involving the traversal of a tree in a level-by-level order can be efficiently solved using this approach. We will use a Queue to keep track of all the nodes of a level before we jump onto the next level
