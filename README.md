@@ -14,6 +14,7 @@ The Fast & Slow pointer approach, also known as the Hare & Tortoise algorithm, i
 This pattern describes an efficient technique to deal with overlapping intervals. In a lot of problems involving intervals, we either need to find overlapping intervals or merge intervals if they overlap.Given two intervals (‘a’ and ‘b’), there will be six different ways the two intervals can relate to each other:
 >eg: Given two intervals (‘a’ and ‘b’), there will be six different ways the two intervals can relate to each other
 5. **Cyclc Sort**
+This pattern describes an interesting approach to deal with problems involving arrays containing numbers in a given range.
 >eg: You are given an unsorted array containing numbers taken from the range 1 to ‘n’. The array can have duplicates, which means that some numbers will be missing. Find all the missing numbers
 6. **In-place reversal of a Linked List**
 >eg: Using the existing node objects and without using extra memory
