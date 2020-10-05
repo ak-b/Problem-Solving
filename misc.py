@@ -35,4 +35,10 @@ Solve using:
 
 7. Using the Median of Medians
 
+Solution:
+Theoretically, the Median of Medians algorithm gives the best time complexity of O(N)O(N) but practically both the Median of Medians and 
+the Randomized Partitioning algorithms nearly perform equally.In the context of Quicksort, given an O(N)O(N) selection algorithm using the 
+Median of Medians, one can use it to find the ideal pivot (the median) at every step of quicksort and thus produce a sorting algorithm with 
+O(NlogN)O(NlogN) running time in the worst-case. 
+
 '''
