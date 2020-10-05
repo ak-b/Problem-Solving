@@ -11,6 +11,12 @@ Example 2:
 Input: [2, 5, 9, 11], target=11
 Output: [0, 2]
 Explanation: The numbers at index 0 and 2 add up to 11: 2+9=11
+
+Time Complexity #
+The time complexity of the above algorithm will be O(N)O(N), where ‘N’ is the total number of elements in the given array.
+
+Space Complexity #
+The space complexity will also be O(N)O(N), as, in the worst case, we will be pushing ‘N’ numbers in the HashTable.
 '''
 
 def pair_with_targetsum(arr, target_sum):
